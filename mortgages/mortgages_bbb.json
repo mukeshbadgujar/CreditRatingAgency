@@ -1,0 +1,22 @@
+{
+  "mortgages": [
+    {
+      "credit_score": 680,
+      "loan_amount": 160000,
+      "property_value": 200000,
+      "annual_income": 50000,
+      "debt_amount": 20000,
+      "loan_type": "fixed",
+      "property_type": "single_family"
+    },
+    {
+      "credit_score": 640,
+      "loan_amount": 180000,
+      "property_value": 200000,
+      "annual_income": 40000,
+      "debt_amount": 18000,
+      "loan_type": "adjustable",
+      "property_type": "condo"
+    }
+  ]
+}
